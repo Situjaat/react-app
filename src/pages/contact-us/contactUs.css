@@ -1,0 +1,73 @@
+.contact{
+    width: 80%;
+    height: 80%;
+
+}
+.contact_parent{
+    width: 50%;
+    margin: auto;
+    height: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(187, 187, 203);
+}
+.contact_child{
+    width: 95%;
+    margin: 20px auto;
+
+}
+label{
+    display: flex;
+    font-size: 18px;
+    padding: 10px;
+}
+input,select{
+    width: 99%;
+    height: 40px;
+    border-radius: 10px;
+    /* border: none; */
+}
+.button_contact{
+    width: 22%;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: rgb(74, 223, 74);
+}
+select{
+    width: 95%;
+    height: 45px;
+    border-radius: 10px;
+    /* border: none; */
+}
+.form-radio{
+    /* border: 1px solid black; */
+    display: flex;
+    margin-top: 30px;
+
+}
+.male-female{
+    /* border: 1px solid black; */
+    display: flex;
+    
+}
+.male-female input{
+    width:25px;
+    
+}
+.male-female label{
+    font-weight: bolder;
+}
+.checkbox{
+    /* border: 1px solid black; */
+    display: flex;
+}
+.check-value{
+    display: flex;
+}
+.check-value input{
+    width: 25px;
+}
+.check-value label{
+    font-weight: bolder;
+}

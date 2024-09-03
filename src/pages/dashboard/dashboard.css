@@ -1,0 +1,30 @@
+.Dashboard{
+    padding: 1rem;
+}
+
+.dashboard_btn{
+    display: flex;
+    /* flex-direction:row ;
+    flex-wrap: wrap; */
+    justify-content: space-around;
+    margin: auto;
+    /* gap: 7rem; */
+    width: 70%;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.dashboard_link{
+    width: 12%;
+    height: 30px;
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: rgb(128, 128, 203);
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+}
+h1{
+    color: blue;
+}

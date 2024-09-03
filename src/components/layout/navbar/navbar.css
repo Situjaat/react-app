@@ -1,0 +1,14 @@
+nav {
+    grid-area: nav;
+    border: 1px solid red;
+    text-align:center;
+    /* padding: 20px; */
+    
+  }
+  
+
+h3{
+ 
+    font-size: 24px;
+    color: rgb(76, 76, 88);
+ } 

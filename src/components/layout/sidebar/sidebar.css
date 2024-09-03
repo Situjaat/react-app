@@ -1,0 +1,28 @@
+
+  .sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin: auto;
+    gap: 20px;
+    padding: 20px;
+    /* background-image: linear-gradient(blue,red,green); */
+    
+  }
+  h2{
+    color: gold;
+  }
+  .button{
+    width: 100%;
+    height: 40px;
+    background-color:  rgb(86, 86, 230);
+    color:white;
+    border-radius: 10px;
+    /* font-weight: bolder; */
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .button:hover{
+    background-color:rgb(108, 108, 217);
+    cursor: pointer;
+  }
