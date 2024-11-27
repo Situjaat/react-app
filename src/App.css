@@ -6,15 +6,13 @@
         "aside main main"
         "footer footer footer";
     height: 100vh;
-    /* background-color: rgb(132, 128, 128); */
-  }
+}
 
   aside {
     grid-area: aside;
     border: 1px solid green;
-    /* height: 300px; */
     text-align: center;
-    /* background-color: rgb(86, 86, 88); */
+    
   
   }
   
